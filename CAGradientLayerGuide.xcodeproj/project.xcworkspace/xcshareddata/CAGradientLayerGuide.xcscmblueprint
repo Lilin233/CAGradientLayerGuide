@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "50C041A76CF337A426515F20F6F7FD62986C1E2F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "50C041A76CF337A426515F20F6F7FD62986C1E2F" : 0,
+    "C59ADA7C0EB15EC7D021054981CB6B38F29C937C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8415807B-5A1F-4E3E-B425-61E993442521",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "50C041A76CF337A426515F20F6F7FD62986C1E2F" : "CAGradientLayerGuide\/",
+    "C59ADA7C0EB15EC7D021054981CB6B38F29C937C" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CAGradientLayerGuide",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CAGradientLayerGuide.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Lilin233\/CAGradientLayerGuide.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "50C041A76CF337A426515F20F6F7FD62986C1E2F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Lilin233\/iOS9NSUserActivity.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C59ADA7C0EB15EC7D021054981CB6B38F29C937C"
+    }
+  ]
+}

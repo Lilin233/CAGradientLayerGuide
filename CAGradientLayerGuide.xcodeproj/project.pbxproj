@@ -17,6 +17,7 @@
 		FA63CB091C5B52160008E4F8 /* catalina2.png in Resources */ = {isa = PBXBuildFile; fileRef = FA63CB081C5B52160008E4F8 /* catalina2.png */; };
 		FA63CB0E1C5B532E0008E4F8 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA63CB0C1C5B532E0008E4F8 /* Extension.swift */; };
 		FA63CB0F1C5B532E0008E4F8 /* GlobalDef.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA63CB0D1C5B532E0008E4F8 /* GlobalDef.swift */; };
+		FA63CB151C5B80AC0008E4F8 /* gradientLayer2.gif in Resources */ = {isa = PBXBuildFile; fileRef = FA63CB141C5B80AC0008E4F8 /* gradientLayer2.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		FA63CB081C5B52160008E4F8 /* catalina2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = catalina2.png; sourceTree = "<group>"; };
 		FA63CB0C1C5B532E0008E4F8 /* Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 		FA63CB0D1C5B532E0008E4F8 /* GlobalDef.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GlobalDef.swift; sourceTree = "<group>"; };
+		FA63CB141C5B80AC0008E4F8 /* gradientLayer2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = gradientLayer2.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 		FA63CAF11C5B4B620008E4F8 /* CAGradientLayerGuide */ = {
 			isa = PBXGroup;
 			children = (
+				FA63CB141C5B80AC0008E4F8 /* gradientLayer2.gif */,
 				FA63CB0B1C5B53070008E4F8 /* Global */,
 				FA63CB0A1C5B52EE0008E4F8 /* Image */,
 				FA63CAF21C5B4B620008E4F8 /* AppDelegate.swift */,
@@ -154,6 +157,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA63CAFD1C5B4B630008E4F8 /* LaunchScreen.storyboard in Resources */,
+				FA63CB151C5B80AC0008E4F8 /* gradientLayer2.gif in Resources */,
 				FA63CB091C5B52160008E4F8 /* catalina2.png in Resources */,
 				FA63CB071C5B50210008E4F8 /* catalina.png in Resources */,
 				FA63CAFA1C5B4B630008E4F8 /* Assets.xcassets in Resources */,
@@ -322,6 +326,7 @@
 				FA63CB031C5B4B630008E4F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
